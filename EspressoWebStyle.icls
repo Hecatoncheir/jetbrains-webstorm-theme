@@ -484,7 +484,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="cccccc" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
+        <option name="ERROR_STRIPE_COLOR" value="f29a0f" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -532,6 +532,12 @@
     <option name="JS.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="72c12d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ffbe9b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -622,7 +628,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="b550b4" />
+        <option name="BACKGROUND" value="fc1692" />
       </value>
     </option>
     <option name="SASS_MIXIN">
